@@ -49,6 +49,12 @@ class Window(QWidget):
         label4.move(190, 120)
         label4.setFont(QtGui.QFont("DRIVER", weight=QtGui.QFont.Bold))
 
+        icon2 = QIcon("icon/icon.png")
+        label5 = QLabel('Logo', self)
+        pixmap2 = icon2.pixmap(120, 120, QIcon.Selected, QIcon.On)
+        label5.setPixmap(pixmap2)
+        label5.move(300, 0)
+
 
 myApp = QApplication(sys.argv)
 window = Window()
