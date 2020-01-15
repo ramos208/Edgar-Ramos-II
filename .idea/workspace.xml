@@ -2,28 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/01 Your First QtWidgets Application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/02 Your First Application Using PySide2 and QtQuick QML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/03 A Simple Button Tutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/04 Creating a Simple PySide2 Dialog Application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/05 Using UI Files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/06.1 DVTT C1 Reading data form CSV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/CSV/all_hour.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/QML/view.qml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/UI/mainwindow.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize1/all_hour.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/00WinOpenNewForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/08WinDigitalClock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/09WinStatusBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/10WinProgressbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/11WinLayoutmanagement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/12WinGridLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/13WinCalendar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/14WinCheckbox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00WinOpenNewForm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/Ui/login.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/Ui/signup.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/Ui/welcome.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/login.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/signup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login/welcome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/all_hour.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize3/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/table_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/table_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/table_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/00WinOpenNewForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/MongoDB/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +41,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py">
+        <entry file="file://$PROJECT_DIR$/MongoDB/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+            <state relative-caret-position="438">
+              <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,6 +62,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.file_menu.addAction(exit_action)</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,12 +102,14 @@
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/06.1 DVTT C1 Reading data form CSV.py" />
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/07.py" />
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py" />
+        <option value="$PROJECT_DIR$/00WinOpenNewForm.py" />
+        <option value="$PROJECT_DIR$/MongoDB/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="952" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="937" />
+    <option name="y" value="28" />
     <option name="width" value="976" />
     <option name="height" value="1056" />
   </component>
@@ -105,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,42 +132,30 @@
             <path>
               <item name="Edgar-Ramos-II" type="b2602c69:ProjectViewProjectNode" />
               <item name="Edgar-Ramos-II" type="462c0819:PsiDirectoryNode" />
-              <item name="Pyside2 Document Tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Edgar-Ramos-II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Edgar-Ramos-II" type="462c0819:PsiDirectoryNode" />
-              <item name="Pyside2 Document Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="CSV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Edgar-Ramos-II" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Edgar-Ramos-II" type="462c0819:PsiDirectoryNode" />
-              <item name="Pyside2 Document Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py" />
-    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+    <property name="last_opened_file_path" value="C:/Python38/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\UI" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\QML" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Login" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\datavisualize\datavisualize1" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\CSV" />
@@ -169,7 +174,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07 Expenses Tool Tutorial">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="00WinOpenNewForm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00WinOpenNewForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01 Your First QtWidgets Application" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,9 +203,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/01 Your First QtWidgets Application.py" />
@@ -198,12 +224,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View\01Form Window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/01Form Window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,9 +245,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/02 Your First Application Using PySide2 and QtQuick QML.py" />
@@ -240,12 +266,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View\02WinIcon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/02WinIcon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,9 +287,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/03 A Simple Button Tutorial.py" />
@@ -282,12 +308,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View\03WinIconModes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/03WinIconModes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,9 +329,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/04 Creating a Simple PySide2 Dialog Application.py" />
@@ -324,9 +350,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/04WinTooltip.py" />
@@ -345,9 +371,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/05 Using UI Files.py" />
@@ -366,9 +392,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/05PushButton.py" />
@@ -387,9 +413,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/06WinCenter.py" />
@@ -408,9 +434,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/06.1 DVTT C1 Reading data form CSV.py" />
@@ -429,9 +455,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py" />
@@ -450,9 +476,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/07WinAboutBox.py" />
@@ -471,9 +497,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/08WinDigitalClock.py" />
@@ -492,9 +518,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/09WinStatusBar.py" />
@@ -513,9 +539,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/10WinProgressbar.py" />
@@ -534,9 +560,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/11WinLayoutmanagement.py" />
@@ -555,9 +581,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/12WinGridLayout.py" />
@@ -576,9 +602,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/13WinCalendar.py" />
@@ -597,9 +623,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/View" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/14WinCheckbox.py" />
@@ -632,6 +658,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Login/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -639,12 +686,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -661,6 +708,8 @@
       <item itemvalue="Python.05 Using UI Files" />
       <item itemvalue="Python.06.1 DVTT C1 Reading data form CSV" />
       <item itemvalue="Python.07 Expenses Tool Tutorial" />
+      <item itemvalue="Python.00WinOpenNewForm" />
+      <item itemvalue="Python.login" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.04WinTooltip" />
       <item itemvalue="Python.05PushButton" />
@@ -705,20 +754,20 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13909379" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1601686" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50106835" side_tool="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32827735" />
       <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49893162" weight="0.32932165" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32932165" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3261105" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49947312" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49894625" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -727,16 +776,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/View/icon/icon.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/01Form Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="11" lean-forward="true" selection-end-line="25" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/View/02WinIcon.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -792,16 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/08WinDigitalClock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="23" lean-forward="true" selection-end-line="47" selection-end-column="11" />
           <folding>
             <element signature="e#0#63#0" expanded="true" />
           </folding>
@@ -868,12 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/00WinOpenNewForm.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/02 Your First Application Using PySide2 and QtQuick/02 Your First Application Using PySide2 and QtQuick QML">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/02 Your First Application Using PySide2 and QtQuick/02 Your First Application Using PySide2 and QtQuick QML" />
     <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/QML/view.qml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -941,9 +965,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/all_hour.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/all_hour.csv" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pandas/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -954,13 +976,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12980.35937/sources/pyside2/doc/tutorials/datavisualize/datavisualize1/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="51" column="15" selection-end-line="51" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12980.35937/sources/pyside2/doc/tutorials/datavisualize/datavisualize1/main.py" />
     <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -1017,12 +1033,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/00WinOpenNewForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="283">
+          <caret line="141" column="55" selection-start-line="141" selection-start-column="55" selection-end-line="141" selection-end-column="55" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/welcome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="e#195#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymongo/mongo_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="620" selection-start-line="620" selection-end-line="620" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pymongo/uri_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="389" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/08WinDigitalClock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/01Form Window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/venv/Lib/site-packages/pymongo/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="467" lean-forward="true" selection-start-line="467" selection-end-line="467" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MongoDB/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
