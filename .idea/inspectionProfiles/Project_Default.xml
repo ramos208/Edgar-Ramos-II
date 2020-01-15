@@ -13,6 +13,11 @@
         <list>
           <option value="pandas" />
           <option value="PySide2.QtCore.qApp" />
+          <option value="PyQt5.QtCore" />
+          <option value="PyQt5.QtGui" />
+          <option value="PyQt5.QtWidgets" />
+          <option value="OtherWindow" />
+          <option value="win2" />
         </list>
       </option>
     </inspection_tool>

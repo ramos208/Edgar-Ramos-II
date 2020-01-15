@@ -2,37 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/00WinOpenNewForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/Database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/Ui/login.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/Ui/signup.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/Ui/welcome.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/login.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/signup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/welcome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MongoDB/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/all_hour.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize3/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main_widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize4/table_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main_widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize5/table_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main_widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyside2 Document Tutorial/datavisualize/datavisualize6/table_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download/win2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/00WinOpenNewForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/MongoDB/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00WinOpenNewForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/00WinOpenNewForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/01Form Window.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/Win.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/08WinDigitalClock.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/08WinDigitalClock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +19,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MongoDB/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+            <state relative-caret-position="850">
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download/win2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/00WinOpenNewForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/02WinIcon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/View/08WinDigitalClock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,6 +103,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>self.file_menu.addAction(exit_action)</find>
+      <find>ui</find>
+      <find>register</find>
+      <find>button</find>
+      <find>title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,7 +123,6 @@
         <option value="$PROJECT_DIR$/View/06WinCenter.py" />
         <option value="$PROJECT_DIR$/View/05PushButton.py" />
         <option value="$PROJECT_DIR$/View/07WinAboutBox.py" />
-        <option value="$PROJECT_DIR$/View/08WinDigitalClock.py" />
         <option value="$PROJECT_DIR$/View/09WinStatusBar.py" />
         <option value="$PROJECT_DIR$/View/10WinProgressbar.py" />
         <option value="$PROJECT_DIR$/View/11WinLayoutmanagement.py" />
@@ -102,8 +142,14 @@
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/06.1 DVTT C1 Reading data form CSV.py" />
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/07.py" />
         <option value="$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py" />
-        <option value="$PROJECT_DIR$/00WinOpenNewForm.py" />
         <option value="$PROJECT_DIR$/MongoDB/main.py" />
+        <option value="$PROJECT_DIR$/download/Next Window Sample/MainWindow.py" />
+        <option value="$PROJECT_DIR$/download/reg.py" />
+        <option value="$PROJECT_DIR$/download/test.py" />
+        <option value="$PROJECT_DIR$/View/01Win.py" />
+        <option value="$PROJECT_DIR$/View/08WinDigitalClock.py" />
+        <option value="$PROJECT_DIR$/View/Win.py" />
+        <option value="$PROJECT_DIR$/00WinOpenNewForm.py" />
       </list>
     </option>
   </component>
@@ -132,7 +178,12 @@
             <path>
               <item name="Edgar-Ramos-II" type="b2602c69:ProjectViewProjectNode" />
               <item name="Edgar-Ramos-II" type="462c0819:PsiDirectoryNode" />
-              <item name="MongoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="download" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Edgar-Ramos-II" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Edgar-Ramos-II" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,23 +194,23 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/Python38/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/download/win2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\download\Next Window Sample" />
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Login" />
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\datavisualize\datavisualize1" />
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
+      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\CSV" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\UI" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\QML" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Login" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\datavisualize\datavisualize1" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\CSV" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.00WinOpenNewForm">
     <configuration name="00WinOpenNewForm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,27 +260,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyside2 Document Tutorial/01 Your First QtWidgets Application.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01Form Window" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Edgar-Ramos-II" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/01Form Window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -637,6 +667,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/Next Window Sample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/Next Window Sample/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Win" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\View\Win.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -700,7 +772,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="win2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/win2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.MainWindow" />
+      <item itemvalue="Python.win2" />
       <item itemvalue="Python.01 Your First QtWidgets Application" />
       <item itemvalue="Python.02 Your First Application Using PySide2 and QtQuick QML" />
       <item itemvalue="Python.03 A Simple Button Tutorial" />
@@ -724,7 +819,7 @@
       <item itemvalue="Python.06WinCenter" />
       <item itemvalue="Python.03WinIconModes" />
       <item itemvalue="Python.02WinIcon" />
-      <item itemvalue="Python.01Form Window" />
+      <item itemvalue="Python.01Win" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -758,13 +853,13 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50052685" side_tool="true" weight="0.3997833" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32827735" />
       <window_info anchor="bottom" id="Python Console" order="4" sideWeight="0.49893162" weight="0.32932165" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49947312" visible="true" weight="0.3261105" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49947312" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" sideWeight="0.49894625" weight="0.32827735" />
@@ -774,43 +869,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/View/icon/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/02WinIcon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/05PushButton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/View/06WinCenter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/07WinAboutBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="49" column="16" lean-forward="true" selection-end-line="75" selection-end-column="11" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -827,62 +889,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/09WinStatusBar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/View/04WinTooltip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="58" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="58" />
           <folding>
             <element signature="e#63#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/10WinProgressbar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/11WinLayoutmanagement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/12WinGridLayout.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/13WinCalendar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1033,16 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00WinOpenNewForm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pyside2 Document Tutorial/07 Expenses Tool Tutorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -1105,23 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/08WinDigitalClock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/View/01Form Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python38/venv/Lib/site-packages/pymongo/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5">
@@ -1129,12 +1114,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/download/Next Window Sample/OtherWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/Next Window Sample/MainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#196#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MongoDB/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="850">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/asd.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38/Lib/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/07WinAboutBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/13WinCalendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/12WinGridLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/11WinLayoutmanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" lean-forward="true" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/10WinProgressbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/09WinStatusBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/05PushButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/02WinIcon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/08WinDigitalClock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/win2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/View/Win.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00WinOpenNewForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

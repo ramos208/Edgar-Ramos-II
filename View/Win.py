@@ -15,12 +15,15 @@ class Window(QWidget):
         self.setMaximumHeight(500)
         self.setMaximumWidth(300)
 
-myApp = QApplication(sys.argv)
-window = Window()
-window.show()
-
-# time.sleep(5)
-window.resize(300,500)
-
-myApp.exec_()
-sys.exit(0)
+# def Start():
+#     myApp = QApplication(sys.argv)
+#     window = Window()
+#     window.show()
+#
+#     # time.sleep(5)
+#     window.resize(300, 500)
+#
+#     myApp.exec_()
+#     sys.exit(0)
+#
+# Start()

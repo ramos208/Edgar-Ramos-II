@@ -44,5 +44,5 @@ window.show()
 # time.sleep(5)
 window.resize(300,500)
 
-myApp.exec_()
-sys.exit(0)
+
+sys.exit(myApp.exec_())
