@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="" />
+    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="about ui">
+      <change afterPath="$PROJECT_DIR$/View/dock_widgets/m_input_dock_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/html/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/tabs/m_gis_tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missionary_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tab_widget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +40,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\tabs" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\dock_widgets" />
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\img" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\download\Next Window Sample" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Login" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\datavisualize\datavisualize1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
@@ -653,6 +660,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="missionary_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/missionary_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="win2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -703,10 +732,12 @@
       <item itemvalue="Python.03WinIconModes" />
       <item itemvalue="Python.02WinIcon" />
       <item itemvalue="Python.about" />
+      <item itemvalue="Python.missionary_main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.about" />
+        <item itemvalue="Python.missionary_main" />
       </list>
     </recent_temporary>
   </component>
@@ -722,7 +753,7 @@
       <updated>1578977812785</updated>
       <workItem from="1583902558935" duration="1774000" />
       <workItem from="1583904408646" duration="1270000" />
-      <workItem from="1583981019259" duration="9881000" />
+      <workItem from="1583981019259" duration="16394000" />
     </task>
     <task id="LOCAL-00001" summary="about ui">
       <created>1583992410007</created>
@@ -763,8 +794,20 @@
     <MESSAGE value="about ui" />
     <option name="LAST_COMMIT_MESSAGE" value="about ui" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/missionary_main.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1583992335605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1584005631551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584006451317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$00WinOpenNewForm.coverage" NAME="00WinOpenNewForm Coverage Results" MODIFIED="1583902648751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
