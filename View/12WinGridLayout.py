@@ -28,6 +28,7 @@ class Window(QWidget):
         self.groupBox.setFont(QFont("Sanserif", 13))
         gridLayout = QGridLayout()
 
+
         button = QPushButton("C++", self)
         button.setIcon(QIcon("cpp.png"))
         gridLayout.addWidget(button, 0, 0)
