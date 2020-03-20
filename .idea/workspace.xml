@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="about ui">
-      <change afterPath="$PROJECT_DIR$/View/dock_widgets/m_input_dock_widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/html/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/tabs/m_gis_tab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missionary_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tab_widget.py" afterDir="false" />
+    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/View/img/left_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_csv_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geopanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getvar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about_develop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about_its.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about_navis2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about_partner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/left_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.sbn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.sbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.shp.ISHARA-PC.5816.1772.sr.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/area_of_interest_.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.sbn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.sbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.shp.ISHARA-PC.5816.1772.sr.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shape_file/belgian_cities.shx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.py" beforeDir="false" afterPath="$PROJECT_DIR$/about.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_develop.png" beforeDir="false" afterPath="$PROJECT_DIR$/View/img/about_develop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_its.png" beforeDir="false" afterPath="$PROJECT_DIR$/View/img/about_its.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_navis2.png" beforeDir="false" afterPath="$PROJECT_DIR$/View/img/about_navis2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_partner.png" beforeDir="false" afterPath="$PROJECT_DIR$/View/img/about_partner.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +60,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../t4cast/1.x" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\shape_file" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\img" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\img" />
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\tabs" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\dock_widgets" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
@@ -65,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.about">
+  <component name="RunManager" selected="Python.main">
     <configuration name="00WinOpenNewForm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -616,6 +643,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="getvar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getvar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="installer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/installer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="login" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -733,11 +804,15 @@
       <item itemvalue="Python.02WinIcon" />
       <item itemvalue="Python.about" />
       <item itemvalue="Python.missionary_main" />
+      <item itemvalue="Python.installer" />
+      <item itemvalue="Python.getvar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.about" />
         <item itemvalue="Python.missionary_main" />
+        <item itemvalue="Python.getvar" />
+        <item itemvalue="Python.installer" />
+        <item itemvalue="Python.about" />
       </list>
     </recent_temporary>
   </component>
@@ -753,7 +828,13 @@
       <updated>1578977812785</updated>
       <workItem from="1583902558935" duration="1774000" />
       <workItem from="1583904408646" duration="1270000" />
-      <workItem from="1583981019259" duration="16394000" />
+      <workItem from="1583981019259" duration="16607000" />
+      <workItem from="1584018878388" duration="5123000" />
+      <workItem from="1584068859200" duration="11657000" />
+      <workItem from="1584244883095" duration="2572000" />
+      <workItem from="1584505377219" duration="5939000" />
+      <workItem from="1584524724514" duration="3400000" />
+      <workItem from="1584673949799" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="about ui">
       <created>1583992410007</created>
@@ -762,7 +843,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583992410007</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="about ui/ missionary route">
+      <created>1584006557556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584006557557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -792,7 +880,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="about ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="about ui" />
+    <MESSAGE value="about ui/ missionary route" />
+    <option name="LAST_COMMIT_MESSAGE" value="about ui/ missionary route" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,9 +895,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1584005631551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584006451317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1584505845135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$getvar.coverage" NAME="getvar Coverage Results" MODIFIED="1584505706963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main.coverage" NAME="main Coverage Results" MODIFIED="1584674324063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584104596983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$00WinOpenNewForm.coverage" NAME="00WinOpenNewForm Coverage Results" MODIFIED="1583902648751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$installer.coverage" NAME="installer Coverage Results" MODIFIED="1584245621929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>

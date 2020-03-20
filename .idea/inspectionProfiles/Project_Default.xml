@@ -18,6 +18,7 @@
           <option value="PyQt5.QtWidgets" />
           <option value="OtherWindow" />
           <option value="win2" />
+          <option value="PySide2.QtWebKit" />
         </list>
       </option>
     </inspection_tool>

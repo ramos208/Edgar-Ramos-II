@@ -1,3 +1,5 @@
+import os
+
 from PySide2 import QtCore
 from PySide2.QtWidgets import *
 import sys
@@ -24,8 +26,6 @@ class Window(QWidget):
         gbox.addWidget(self.r_groupBox)
         self.setLayout(gbox)
 
-        self.show()
-
 
 
     def setIcon(self):
@@ -39,7 +39,7 @@ class Window(QWidget):
         r_vbox = QVBoxLayout()
         self.r_groupBox.setLayout(r_vbox)
         self.r_groupBox.setStyleSheet(
-            'QGroupBox {background-image: url("about_navis2.png"); background-repeat: no-repeat;}')
+            'QGroupBox {background-image: url("img/about_navis2.png"); background-repeat: no-repeat;}')
 
         self.groupBox = QGroupBox()
         self.groupBox.setStyleSheet(
@@ -78,18 +78,20 @@ class Window(QWidget):
         self.groupBox.setLayout(vbox)
     def btn_its_clicked(self):
         self.r_groupBox.setStyleSheet(
-            'QGroupBox {background-image: url("about_its.png"); background-repeat: no-repeat;}')
+            'QGroupBox {background-image: url("img/about_its.png"); background-repeat: no-repeat;}')
+
+
 
     def btn_about_clicked(self):
         self.r_groupBox.setStyleSheet(
-            'QGroupBox {background-image: url("about_navis2.png"); background-repeat: no-repeat;}')
+            'QGroupBox {background-image: url("img/about_navis2.png"); background-repeat: no-repeat;}')
 
     def btn_develop_clicked(self):
         self.r_groupBox.setStyleSheet(
-            'QGroupBox {background-image: url("about_develop.png"); background-repeat: no-repeat;}')
+            'QGroupBox {background-image: url("img/about_develop.png"); background-repeat: no-repeat;}')
     def btn_partner_clicked(self):
         self.r_groupBox.setStyleSheet(
-            'QGroupBox {background-image: url("about_partner.png"); background-repeat: no-repeat;}')
+            'QGroupBox {background-image: url("img/about_partner.png"); background-repeat: no-repeat;}')
 
 if __name__ == '__main__':
     import sys
