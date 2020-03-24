@@ -1,0 +1,40 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates":  [ 6.1200622,46.2106091 ]
+},
+"properties": {
+  "nom":"Centre d'entraînement aux méthodes d'éducation active - Genève",
+  "rue":"Route des Franchises",
+  "num":"11",
+  "npa":1203,
+  "localite":"Genève",
+  "canton":"GE",
+  "tel":"022 940 17 57",
+  "url":"www.formation-cemea.ch",
+  "domaine":"formation   "
+}
+  },
+
+  {
+"type": "Feature",
+"geometry": {
+   "type": "Point",
+   "coordinates":  [ 6.1243056,46.2120426 ]
+  },
+"properties": {
+  "nom":"VIRES",
+  "rue":"Rue Ernest-Pictet ",
+  "num":"10",
+  "npa":1203,
+  "localite":"Genève",
+  "canton":"GE",
+  "tel":"022 328 44 33",
+  "url":"www.vires.ch",
+  "domaine":"violences   "
+  }
+}

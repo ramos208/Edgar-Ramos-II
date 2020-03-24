@@ -1,0 +1,97 @@
+<html>
+<head>
+    <script type="text/javascript" src="qwebchannel.js"></script>
+</head>
+<header><title>This is title</title></header>
+<body>
+
+<p id="output"></p>
+<h1>Hello!</h1><br>
+    <h2><a href="#" onclick="app_manager.test2" id="test">QObject Test</a></h2>
+    <button onclick="myFunction()">Click me 23</button>
+    <button onclick="myFunction3()">Click me</button>
+    <p id="demo"></p>
+
+<script type="text/javascript">
+    // window.onload = function() {
+    //     new QWebChannel(qt.webChannelTransport, function (channel) {
+    //         window.app_manager = channel.objects.app_manager;
+    //         console.log(app_manager);
+    //
+    //
+    //         app_manager.textChanged.connect(function (message) {
+    //             document.getElementById("output").innerHTML = "Received message: " + message;
+    //         });
+    //
+    //         // app_manager.test2.trigger(function(message) {
+    //         //     document.getElementById("eee").innerHTML = "Received message: ";
+    //         // });
+    //
+    //     });
+    // }
+    // function myFunction() {
+    //           app_manager.test2.connect(function (msg) {
+    //             document.getElementById("output").innerHTML = "Received message: " + msg;
+    //         })
+    //         }
+    // }
+
+    // window.onclick = function() {
+    //     new QWebChannel(qt.webChannelTransport, function (channel) {
+    //         window.app_manager = channel.objects.app_manager;
+    //         console.log(app_manager);
+    //
+    //
+    //         // app_manager.textChanged.connect(function (message) {
+    //         //     document.getElementById("output").innerHTML = "Received message: " + message;
+    //         // });
+    //
+    //         app_manager.test2.trigger(function myFunction3() {
+    //             document.getElementById("eee").innerHTML = "Received message: ";
+    //         });
+    //
+    //     });
+    // }
+    // window.onload = function() {
+    //     new QWebChannel(navigator.qtwebChannelTransport, function (channel) {
+    //         window.foo = channel.objects.app_manager
+    //         alert(foo.test2);
+    //
+    //         foo.test2.connect(function (message) {
+    //             alert("Got signal: " + message);
+    //         });
+    //         foo.someMethod("bar", function (ret) {
+    //             alert("Got return value: " + ret);
+    //         });
+    //
+    //     });
+    // }
+
+
+    function myFunction() {
+                new QWebChannel(qt.webChannelTransport, function (channel) {
+            window.app_manager = channel.objects.app_manager;
+            console.log(app_manager);
+
+
+            // app_manager.textChanged.connect(function (message) {
+            //     document.getElementById("output").innerHTML = "Received message: " + message;
+            // });
+            var x ="edgar"
+
+            // app_manager.test2(x,"edgar",function () {
+            //
+            // });
+
+            app_manager.test2("edgar")
+            // app_manager.test2.trigger('data',function(msg) {
+            //
+            // });
+
+        });
+    }
+
+</script>
+
+</body>
+</html>
