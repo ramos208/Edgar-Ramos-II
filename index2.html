@@ -13,22 +13,22 @@
     <p id="demo"></p>
 
 <script type="text/javascript">
-    // window.onload = function() {
-    //     new QWebChannel(qt.webChannelTransport, function (channel) {
-    //         window.app_manager = channel.objects.app_manager;
-    //         console.log(app_manager);
-    //
-    //
-    //         app_manager.textChanged.connect(function (message) {
-    //             document.getElementById("output").innerHTML = "Received message: " + message;
-    //         });
-    //
-    //         // app_manager.test2.trigger(function(message) {
-    //         //     document.getElementById("eee").innerHTML = "Received message: ";
-    //         // });
-    //
-    //     });
-    // }
+    window.onload = function() {
+        new QWebChannel(qt.webChannelTransport, function (channel) {
+            window.app_manager = channel.objects.app_manager;
+            console.log(app_manager);
+
+
+            app_manager.textChanged.connect(function (message) {
+                document.getElementById("output").innerHTML = "edgar: " + message;
+            });
+
+            // app_manager.test2.trigger(function(message) {
+            //     document.getElementById("eee").innerHTML = "Received message: ";
+            // });
+
+        });
+    }
     // function myFunction() {
     //           app_manager.test2.connect(function (msg) {
     //             document.getElementById("output").innerHTML = "Received message: " + msg;
@@ -87,7 +87,6 @@
             // app_manager.test2.trigger('data',function(msg) {
             //
             // });
-
         });
     }
 

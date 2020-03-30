@@ -2,47 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PytoHtml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax with flask/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax with flask/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax with flask/templates/response.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Map_Province.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/SP27GTIF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/city.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/city_centroid.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/countries.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/data_sample.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/data/province.geojson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/terminal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/Google.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/death.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/layers-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/layers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/marker-icon-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/marker-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/images/marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet.label-src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet.label.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet.label.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/lib/leaflet/leaflet_color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myEEl/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myEEl/mail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myEEl/web/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myEEl/web/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qwebchannel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webkit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webkit2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webkit_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyshp_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp/city.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp/city.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp/city.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp/city.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp/city.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/Google.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/layers-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-icon-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet-routing-machine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet-routing-machine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label-src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.routing.icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.routing.icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet_color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/leaflet/routing-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/Win.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/Win.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test2/test2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webkit2.py" beforeDir="false" afterPath="$PROJECT_DIR$/webkit2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -102,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.webkit2">
+  <component name="RunManager" selected="Python.csv">
     <configuration name="00WinOpenNewForm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -653,7 +646,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -666,7 +659,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax with flask/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -719,7 +712,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="missionary_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pyshp_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -732,7 +725,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/missionary_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyshp_parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -834,19 +827,19 @@
       <item itemvalue="Python.06WinCenter" />
       <item itemvalue="Python.03WinIconModes" />
       <item itemvalue="Python.02WinIcon" />
-      <item itemvalue="Python.missionary_main" />
-      <item itemvalue="Python.app" />
       <item itemvalue="Python.PytoHtml" />
       <item itemvalue="Python.webkit_test" />
       <item itemvalue="Python.webkit2" />
+      <item itemvalue="Python.pyshp_parser" />
+      <item itemvalue="Python.csv" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.csv" />
+        <item itemvalue="Python.pyshp_parser" />
         <item itemvalue="Python.webkit2" />
         <item itemvalue="Python.PytoHtml" />
         <item itemvalue="Python.webkit_test" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.missionary_main" />
       </list>
     </recent_temporary>
   </component>
@@ -872,7 +865,9 @@
       <workItem from="1584761868517" duration="9217000" />
       <workItem from="1584933278533" duration="11883000" />
       <workItem from="1585021727130" duration="1908000" />
-      <workItem from="1585029742694" duration="12028000" />
+      <workItem from="1585029742694" duration="12236000" />
+      <workItem from="1585458056535" duration="6614000" />
+      <workItem from="1585545258363" duration="9186000" />
     </task>
     <task id="LOCAL-00001" summary="about ui">
       <created>1583992410007</created>
@@ -895,7 +890,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584674388101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1585048520314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585048520314</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -942,16 +944,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit_test.coverage" NAME="webkit_test Coverage Results" MODIFIED="1584942555116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit2.coverage" NAME="webkit2 Coverage Results" MODIFIED="1585045648377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$app.coverage" NAME="app Coverage Results" MODIFIED="1584770609686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$11WinLayoutmanagement.coverage" NAME="11WinLayoutmanagement Coverage Results" MODIFIED="1585029747445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1584505845135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$getvar.coverage" NAME="getvar Coverage Results" MODIFIED="1584505706963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$PytoHtml.coverage" NAME="PytoHtml Coverage Results" MODIFIED="1585035000335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main.coverage" NAME="main Coverage Results" MODIFIED="1584674324063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584104596983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$installer.coverage" NAME="installer Coverage Results" MODIFIED="1584245621929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$00WinOpenNewForm.coverage" NAME="00WinOpenNewForm Coverage Results" MODIFIED="1584937616242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit2.coverage" NAME="webkit2 Coverage Results" MODIFIED="1585478207212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$app.coverage" NAME="app Coverage Results" MODIFIED="1584770609686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$11WinLayoutmanagement.coverage" NAME="11WinLayoutmanagement Coverage Results" MODIFIED="1585029747445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$pyshp_parser.coverage" NAME="pyshp_parser Coverage Results" MODIFIED="1585479836056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$csv.coverage" NAME="csv Coverage Results" MODIFIED="1585571783875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$installer.coverage" NAME="installer Coverage Results" MODIFIED="1584245621929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>

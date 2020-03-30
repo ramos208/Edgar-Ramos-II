@@ -13,7 +13,6 @@ class AppManager(QtCore.QObject):
     def __init__(self, webview):
         QtCore.QObject.__init__(self)
         self.m_text = ""
-
         timer = QtCore.QTimer(self)
         timer.timeout.connect(self.on_timeout)
         timer.start(1000)
@@ -33,14 +32,18 @@ class AppManager(QtCore.QObject):
             return
         self.m_text = text
         self.textChanged.emit(self.m_text)
+        print(self.m_text)
 
     # @QtCore.Property(str, notify=test2)
     @Slot(str)
     def test2(self,x):
         print(x)
-        from View import Win
-        self.Sw = Win.Window()
-        self.Sw.exec_()
+        self.m_text="ramos"
+        self.textChanged.emit(self.m_text)
+        # from View import Win
+        # self.Sw = Win.Window()
+        # self.Sw.exec_()
+
 
 
 
