@@ -1,4 +1,7 @@
-from PySide2.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QGroupBox, QGridLayout
+from sched import scheduler
+
+from PySide2.QtCore import Qt
+from PySide2.QtWidgets import *
 import sys
 from PySide2.QtGui import QIcon, QFont
 
@@ -28,6 +31,8 @@ class Window(QWidget):
         self.groupBox.setFont(QFont("Sanserif", 13))
         gridLayout = QGridLayout()
 
+        edit = QLineEdit()
+        gridLayout.addWidget(edit, 0, 0)
 
         button = QPushButton("C++", self)
         button.setIcon(QIcon("cpp.png"))
@@ -36,6 +41,10 @@ class Window(QWidget):
         button1 = QPushButton("CSS", self)
         button1.setIcon(QIcon("css.png"))
         gridLayout.addWidget(button1, 0, 1)
+
+        button11 = QPushButton("CSS", self)
+        button11.setIcon(QIcon("css.png"))
+        gridLayout.addWidget(button11, 0, 2)
 
         button2 = QPushButton("javascript", self)
         button2.setIcon(QIcon("javascript.png"))
@@ -53,9 +62,28 @@ class Window(QWidget):
         button5.setIcon(QIcon("java.png"))
         gridLayout.addWidget(button5, 2, 1)
 
+        button5.clicked.connect(self.btn5)
+
         self.groupBox.setLayout(gridLayout)
 
+    def btn5(self):
+        dialog = QDialog()
 
+        scroll = QScrollArea()
+        group = QGroupBox(scroll)
+        layout = QFormLayout(group)
+        for d in range(1,20):
+            radio = QRadioButton()
+            radio.setText(str(d))
+            layout.addWidget(radio)
+        scroll.setWidget(group)
+
+        hlayout = QHBoxLayout()
+        hlayout.addWidget(scroll)
+        dialog.setLayout(hlayout)
+        scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOn)
+
+        dialog.exec_()
 myapp = QApplication(sys.argv)
 window = Window()
 

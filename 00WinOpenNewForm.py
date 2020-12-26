@@ -27,14 +27,29 @@ class Window(QWidget):
 
     def createLayout(self, parent=None):
         self.groupBox = QGroupBox("Please Choose One Language")
-        self.groupBox.setFont(QFont("Sanserif", 13))
+        self.groupBox.setFont(QFont("Gotham Rounded Bold"))
 
         hbox = QHBoxLayout()
 
         button = QPushButton("CSS", self)
         button.setIcon(QIcon("css.png"))
         button.setMinimumHeight(40)
+        check = QCheckBox('test')
+        check.setToolTip('asdasdsd')
+
+        spinbox = QSpinBox()
+        spinbox.setPrefix("$")
+        spinbox.setMaximum(100000000)
+
+        self.currency = QLineEdit()
+        self.currency.setInputMask('000 000 000 000 000')
+        self.currency.textChanged.connect(self.currency_changed)
+
+        # hbox.addWidget(spinbox)
+        hbox.addWidget(self.currency)
         hbox.addWidget(button)
+        hbox.addWidget(check)
+
         # from View import Win
         # button.clicked.connect(Win.Start())
         button.clicked.connect(self.onClick)
@@ -47,10 +62,33 @@ class Window(QWidget):
         button2 = QPushButton("Javascript", self)
         button2.setIcon(QIcon("javascript.png"))
         button2.setMinimumHeight(40)
+        button2.clicked.connect(self.btn2)
         hbox.addWidget(button2)
 
         self.groupBox.setLayout(hbox)
 
+    def currency_changed(self,value):
+        pass
+        # if len(value) == 4:
+        #     self.currency.clearMask()
+        #     self.currency.setInputMask('000,000'+'.00')
+        #     self.currency.setCursorPosition(5)
+        # elif len(value) == 7:
+        #     self.currency.clearMask()
+        #     self.currency.setInputMask('000,000,000')
+        #     self.currency.setCursorPosition(8)
+        # elif len(value) in [10,11,12]:
+        #     self.currency.setInputMask('000,000,000,000')
+        # elif len(value) in [13,14,15]:
+        #     self.currency.setInputMask('000,000,000,000,000')
+    def btn2(self):
+        msg_box = QMessageBox()
+        msg_box.setGeometry(50,50,10000,10000)
+        msg_box.setWindowTitle('123')
+        msg_box.setText('123')
+        msg_box.setInformativeText('123')
+        msg_box.setIcon(QMessageBox.Information)
+        msg_box.exec_()
     def onClick(self):
         from View import Win
         self.Sw = Win.Window()

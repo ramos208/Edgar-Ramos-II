@@ -1,40 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/employee.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyshp_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routing2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shp/city.cpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shp/city.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shp/city.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shp/city.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shp/city.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/Google.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/death.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/layers-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/layers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-icon-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/images/marker-shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet-routing-machine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet-routing-machine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label-src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.label.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.routing.icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet.routing.icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/leaflet_color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/leaflet/routing-icon.png" afterDir="false" />
+    <list default="true" id="65b30dfe-ba1a-482b-9147-dec822e583bb" name="Default Changelist" comment="routing and json">
+      <change afterPath="$PROJECT_DIR$/BIOGEME/RoxVal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIOGEME/data/aicce.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/chart category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/combine chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/excel bar chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/line chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/percent chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/style chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chart/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrameLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/15Treewidget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/cba sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/dock_widgets/m_test_dock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/spliter_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/FrameLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colapsible/expandable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colapsible/splitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collapsible/flayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collapsible/m_transport_dock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collapsible/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collapsible/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encryption/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installer/msi installer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_/log_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qmenu_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spliter_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tablewidget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edgar-Ramos-II.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test2/test2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00WinOpenNewForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/00WinOpenNewForm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/12WinGridLayout.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/12WinGridLayout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/View/13WinCalendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/View/13WinCalendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lib/leaflet/images/Thumbs.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missionary_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/missionary_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routing.html" beforeDir="false" afterPath="$PROJECT_DIR$/routing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/leaflet/images/Thumbs.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/webkit2.py" beforeDir="false" afterPath="$PROJECT_DIR$/webkit2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,6 +58,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,24 +93,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/View" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\dock_widgets" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\BIOGEME" />
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\shape_file" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\BIOGEME\data" />
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\img" />
       <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II" />
       <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial" />
-      <recent name="C:\Users\jempa\Desktop\python\Git\Edgar-Ramos-II\Pyside2 Document Tutorial\UI" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\shape_file" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\img" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\img" />
-      <recent name="C:\Users\User\Desktop\python\Edgar-Ramos-II\View\tabs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -95,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.csv">
+  <component name="RunManager" selected="Python.test py">
     <configuration name="00WinOpenNewForm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -558,6 +588,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="15Treewidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Edgar-Ramos-II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/15Treewidget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -572,28 +624,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/Next Window Sample/MainWindow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PytoHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Edgar-Ramos-II" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jempa\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PytoHtml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -646,7 +676,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cba sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -659,7 +689,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/cba sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -712,7 +742,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyshp_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spliter_ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -725,7 +755,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyshp_parser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spliter_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -734,7 +764,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webkit2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spliter_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -747,7 +777,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webkit2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/View/spliter_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -756,7 +786,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webkit_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test py" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edgar-Ramos-II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -769,7 +799,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webkit_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test py.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -827,19 +857,19 @@
       <item itemvalue="Python.06WinCenter" />
       <item itemvalue="Python.03WinIconModes" />
       <item itemvalue="Python.02WinIcon" />
-      <item itemvalue="Python.PytoHtml" />
-      <item itemvalue="Python.webkit_test" />
-      <item itemvalue="Python.webkit2" />
-      <item itemvalue="Python.pyshp_parser" />
-      <item itemvalue="Python.csv" />
+      <item itemvalue="Python.spliter_" />
+      <item itemvalue="Python.spliter_ (1)" />
+      <item itemvalue="Python.cba sample" />
+      <item itemvalue="Python.15Treewidget" />
+      <item itemvalue="Python.test py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.csv" />
-        <item itemvalue="Python.pyshp_parser" />
-        <item itemvalue="Python.webkit2" />
-        <item itemvalue="Python.PytoHtml" />
-        <item itemvalue="Python.webkit_test" />
+        <item itemvalue="Python.test py" />
+        <item itemvalue="Python.15Treewidget" />
+        <item itemvalue="Python.spliter_ (1)" />
+        <item itemvalue="Python.cba sample" />
+        <item itemvalue="Python.spliter_" />
       </list>
     </recent_temporary>
   </component>
@@ -867,7 +897,88 @@
       <workItem from="1585021727130" duration="1908000" />
       <workItem from="1585029742694" duration="12236000" />
       <workItem from="1585458056535" duration="6614000" />
-      <workItem from="1585545258363" duration="9186000" />
+      <workItem from="1585545258363" duration="9362000" />
+      <workItem from="1585635325598" duration="865000" />
+      <workItem from="1585647243248" duration="4258000" />
+      <workItem from="1585708250892" duration="1795000" />
+      <workItem from="1585724779234" duration="2117000" />
+      <workItem from="1585905283529" duration="913000" />
+      <workItem from="1586151739132" duration="615000" />
+      <workItem from="1586227855328" duration="6832000" />
+      <workItem from="1586318706524" duration="6968000" />
+      <workItem from="1586409847381" duration="6920000" />
+      <workItem from="1586579747742" duration="8017000" />
+      <workItem from="1587360856837" duration="35000" />
+      <workItem from="1587379967885" duration="1132000" />
+      <workItem from="1587436146515" duration="1303000" />
+      <workItem from="1587530326675" duration="5314000" />
+      <workItem from="1587620037001" duration="3233000" />
+      <workItem from="1587695334156" duration="3780000" />
+      <workItem from="1587730480733" duration="591000" />
+      <workItem from="1587789447813" duration="1351000" />
+      <workItem from="1591457877499" duration="223000" />
+      <workItem from="1591966639497" duration="22000" />
+      <workItem from="1594971810143" duration="662000" />
+      <workItem from="1595834978939" duration="675000" />
+      <workItem from="1595940676115" duration="347000" />
+      <workItem from="1596119043983" duration="3671000" />
+      <workItem from="1596169219290" duration="26000" />
+      <workItem from="1600348541857" duration="3962000" />
+      <workItem from="1600602873494" duration="836000" />
+      <workItem from="1600692164009" duration="11146000" />
+      <workItem from="1601037992433" duration="4753000" />
+      <workItem from="1601107232867" duration="1175000" />
+      <workItem from="1601118946247" duration="2515000" />
+      <workItem from="1601263300055" duration="598000" />
+      <workItem from="1601264894859" duration="1851000" />
+      <workItem from="1601268933246" duration="2334000" />
+      <workItem from="1601283015497" duration="596000" />
+      <workItem from="1601354944165" duration="2920000" />
+      <workItem from="1601377863432" duration="593000" />
+      <workItem from="1601380841612" duration="2531000" />
+      <workItem from="1601441343181" duration="597000" />
+      <workItem from="1601543154814" duration="678000" />
+      <workItem from="1601645062559" duration="3772000" />
+      <workItem from="1601729993578" duration="1482000" />
+      <workItem from="1601793465229" duration="1225000" />
+      <workItem from="1601886029273" duration="3123000" />
+      <workItem from="1601893026270" duration="8813000" />
+      <workItem from="1601996444913" duration="3260000" />
+      <workItem from="1602047138838" duration="2253000" />
+      <workItem from="1602137776974" duration="9125000" />
+      <workItem from="1602493953826" duration="3148000" />
+      <workItem from="1602574423590" duration="619000" />
+      <workItem from="1602592434272" duration="2326000" />
+      <workItem from="1602657536253" duration="667000" />
+      <workItem from="1603029575559" duration="7067000" />
+      <workItem from="1603095115095" duration="1206000" />
+      <workItem from="1603107745116" duration="3030000" />
+      <workItem from="1603291993750" duration="3596000" />
+      <workItem from="1603334705283" duration="1092000" />
+      <workItem from="1603346394489" duration="1055000" />
+      <workItem from="1603368207457" duration="38000" />
+      <workItem from="1603375978797" duration="838000" />
+      <workItem from="1603455960434" duration="604000" />
+      <workItem from="1603546790883" duration="6567000" />
+      <workItem from="1603696805264" duration="25000" />
+      <workItem from="1603806548928" duration="8282000" />
+      <workItem from="1603861444110" duration="3468000" />
+      <workItem from="1603892319805" duration="28000" />
+      <workItem from="1603895307418" duration="4225000" />
+      <workItem from="1603953298364" duration="31000" />
+      <workItem from="1604042704879" duration="9367000" />
+      <workItem from="1604140877074" duration="1813000" />
+      <workItem from="1604642038866" duration="5749000" />
+      <workItem from="1604654677994" duration="2316000" />
+      <workItem from="1605017545632" duration="1557000" />
+      <workItem from="1605087463460" duration="1020000" />
+      <workItem from="1605191268392" duration="1112000" />
+      <workItem from="1606222324950" duration="1294000" />
+      <workItem from="1606373780526" duration="6964000" />
+      <workItem from="1607688823005" duration="4188000" />
+      <workItem from="1607959122252" duration="1240000" />
+      <workItem from="1608025645517" duration="1530000" />
+      <workItem from="1608139835200" duration="725000" />
     </task>
     <task id="LOCAL-00001" summary="about ui">
       <created>1583992410007</created>
@@ -897,17 +1008,15 @@
       <option name="project" value="LOCAL" />
       <updated>1585048520314</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="routing and json">
+      <created>1585572213451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585572213451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -929,7 +1038,8 @@
     <MESSAGE value="about ui" />
     <MESSAGE value="about ui/ missionary route" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="routing and json" />
+    <option name="LAST_COMMIT_MESSAGE" value="routing and json" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -939,23 +1049,57 @@
           <line>44</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logging_/log_main.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit_test.coverage" NAME="webkit_test Coverage Results" MODIFIED="1584942555116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1584505845135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$m_test_dock.coverage" NAME="m_test_dock Coverage Results" MODIFIED="1603548939895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$excel_bar_chart.coverage" NAME="excel bar chart Coverage Results" MODIFIED="1601997781708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$RoxVal.coverage" NAME="RoxVal Coverage Results" MODIFIED="1603334985729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$getvar.coverage" NAME="getvar Coverage Results" MODIFIED="1584505706963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$13WinCalendar.coverage" NAME="13WinCalendar Coverage Results" MODIFIED="1604050465991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1586596949854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$log_main.coverage" NAME="log_main Coverage Results" MODIFIED="1587380456097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584104596983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$spliter_.coverage" NAME="spliter_ Coverage Results" MODIFIED="1603864988476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$00WinOpenNewForm.coverage" NAME="00WinOpenNewForm Coverage Results" MODIFIED="1600351886628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$chart_category.coverage" NAME="chart category Coverage Results" MODIFIED="1601903311648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$a.coverage" NAME="a Coverage Results" MODIFIED="1586585456577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$test_py.coverage" NAME="test py Coverage Results" MODIFIED="1608140430592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$spliter___1_.coverage" NAME="spliter_ (1) Coverage Results" MODIFIED="1606222889801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$15Treewidget.coverage" NAME="15Treewidget Coverage Results" MODIFIED="1606376423206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$11WinLayoutmanagement.coverage" NAME="11WinLayoutmanagement Coverage Results" MODIFIED="1586596900284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$FrameLayout.coverage" NAME="FrameLayout Coverage Results" MODIFIED="1586425208764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1586597426508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$percent_chart.coverage" NAME="percent chart Coverage Results" MODIFIED="1602147648325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$test.coverage" NAME="test Coverage Results" MODIFIED="1602146281037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$msi_installer.coverage" NAME="msi installer Coverage Results" MODIFIED="1600602964753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1601045784408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$installer.coverage" NAME="installer Coverage Results" MODIFIED="1584245621929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit_test.coverage" NAME="webkit_test Coverage Results" MODIFIED="1584942555116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$pandas_chart.coverage" NAME="pandas chart Coverage Results" MODIFIED="1601891963788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1586425042704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$missionary_main.coverage" NAME="missionary_main Coverage Results" MODIFIED="1603547072184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$cba_sample.coverage" NAME="cba sample Coverage Results" MODIFIED="1605026733050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$PytoHtml.coverage" NAME="PytoHtml Coverage Results" MODIFIED="1585035000335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main.coverage" NAME="main Coverage Results" MODIFIED="1584674324063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$about.coverage" NAME="about Coverage Results" MODIFIED="1584104596983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$00WinOpenNewForm.coverage" NAME="00WinOpenNewForm Coverage Results" MODIFIED="1584937616242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit2.coverage" NAME="webkit2 Coverage Results" MODIFIED="1585478207212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1586422826862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$m_transport_dock.coverage" NAME="m_transport_dock Coverage Results" MODIFIED="1586411378512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$expandable.coverage" NAME="expandable Coverage Results" MODIFIED="1586599810891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$formating.coverage" NAME="formating Coverage Results" MODIFIED="1601889882159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$12WinGridLayout.coverage" NAME="12WinGridLayout Coverage Results" MODIFIED="1603036240728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$webkit2.coverage" NAME="webkit2 Coverage Results" MODIFIED="1586235914626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$app.coverage" NAME="app Coverage Results" MODIFIED="1584770609686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$11WinLayoutmanagement.coverage" NAME="11WinLayoutmanagement Coverage Results" MODIFIED="1585029747445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/View" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$style_chart.coverage" NAME="style chart Coverage Results" MODIFIED="1601999615009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$combine_chart.coverage" NAME="combine chart Coverage Results" MODIFIED="1602147364693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edgar_Ramos_II$pyshp_parser.coverage" NAME="pyshp_parser Coverage Results" MODIFIED="1585479836056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$csv.coverage" NAME="csv Coverage Results" MODIFIED="1585571783875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$installer.coverage" NAME="installer Coverage Results" MODIFIED="1584245621929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$csv.coverage" NAME="csv Coverage Results" MODIFIED="1586235563671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$qmenu_.coverage" NAME="qmenu_ Coverage Results" MODIFIED="1595834991279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edgar_Ramos_II$charts.coverage" NAME="charts Coverage Results" MODIFIED="1601897099510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>

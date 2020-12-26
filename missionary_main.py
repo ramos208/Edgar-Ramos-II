@@ -6,7 +6,7 @@ from PySide2.QtGui import QIcon, QFont
 from View.dock_widgets.m_input_dock_widget import MInputDock
 from View.tabs.m_gis_tab import MGISMap
 from tab_widget import TabWidget
-
+from View.dock_widgets.m_test_dock import TestDock
 
 class Missionary(QMainWindow):
     def __init__(self, parent, db):
@@ -57,6 +57,9 @@ class Missionary(QMainWindow):
         """Dock Widget"""
         self.m_input_dock_widget = MInputDock(self, self.gc, self.db)
         self.addDockWidget(Qt.LeftDockWidgetArea, self.m_input_dock_widget)
+
+        self.test_dock = TestDock(self, self.gc, self.db)
+        self.addDockWidget(Qt.LeftDockWidgetArea, self.test_dock)
 
         """Tab Widget"""
         frame = QFrame()

@@ -1,3 +1,4 @@
+from PySide2.QtCore import QDate, Qt
 from PySide2.QtWidgets import QApplication, QWidget, QCalendarWidget, QVBoxLayout
 import sys
 from PySide2.QtGui import QIcon
@@ -24,10 +25,13 @@ class Window(QWidget):
         vbox = QVBoxLayout()
         self.calendar = QCalendarWidget()
         self.calendar.setGridVisible(True)
-
+        self.calendar.clicked[QDate].connect(self.show_date)
         vbox.addWidget(self.calendar)
         self.setLayout(vbox)
-
+    def show_date(self,date):
+        print(date.toString(Qt.ISODate))
+        print(date.toString(Qt.ISODate).split('-'))
+        print(date)
 
 myapp = QApplication(sys.argv)
 window = Window()

@@ -19,9 +19,9 @@
             console.log(app_manager);
 
 
-            app_manager.textChanged.connect(function (message) {
-                document.getElementById("output").innerHTML = "edgar: " + message;
-            });
+            // app_manager.textChanged.emit(function (message) {
+            //     document.getElementById("output").innerHTML = "edgar: " + message;
+            // });
 
             // app_manager.test2.trigger(function(message) {
             //     document.getElementById("eee").innerHTML = "Received message: ";
@@ -77,14 +77,14 @@
             // app_manager.textChanged.connect(function (message) {
             //     document.getElementById("output").innerHTML = "Received message: " + message;
             // });
-            var x ="edgar"
+            var x ="edgar sdasdsadasd"
 
-            // app_manager.test2(x,"edgar",function () {
-            //
-            // });
+            app_manager.test2(x,function () {
 
-            app_manager.test2("edgar")
-            // app_manager.test2.trigger('data',function(msg) {
+            });
+
+            // app_manager.test2("edgar")
+            // app_manager.test2.trigger(x,function(msg) {
             //
             // });
         });
